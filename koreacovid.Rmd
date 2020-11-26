@@ -84,4 +84,4 @@ fisher.test(table1)
 The odds of dying if you're a male is 44/1411. The odds of dying if you're a female is 25/1381. The odds ratio is (44/1411)(25/1381). The odds of dying are 2.3 to 1.  
 
 ## Conclusions
-
+According to the percent bar chart, we can see that more females have a higher chance at being alive than males and have a lower chance.  
